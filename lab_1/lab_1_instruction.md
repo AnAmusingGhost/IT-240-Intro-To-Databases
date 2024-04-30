@@ -1,3 +1,8 @@
+
+# Database File: 
+
+mysqlsampledatabaseWright.sql
+
 # Ceate SQL Select Queries:
 
 Using the data in the Employees table in the database, create a SQL script file named LastName_Lab1_Query.sql, containing queries to execute each of the tasks below
